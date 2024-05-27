@@ -2,7 +2,7 @@
 
 namespace InsurancePremium
 {
-    public class InsurancePremium
+    public class InsurancePremiumCalculator
     {
         // it's not neccessary to use policyStartDate here, we might just save value here  
 

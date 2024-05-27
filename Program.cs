@@ -11,7 +11,7 @@ namespace InsurancePremium
 
             try
             {
-                var calculatedPremium = InsurancePremium.CalculatePremium(
+                var calculatedPremium = InsurancePremiumCalculator.CalculatePremium(
                 policyEndDate,
                 25,
                 employeeJoinDate,
